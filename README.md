@@ -1,30 +1,30 @@
-<!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge)](https://github.com/formidablae) -->
-<!--- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge" /> -->
+<!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=pavankmr501.visitor-badge)](https://github.com/pavankmr501) -->
+<!--- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=pavankmr501.visitor-badge" /> -->
 <h3 align="center">
 	Hello and welcome :smile:
 </h3>
 
 <h4 align="center">
-	Head <a href="https://github.com/formidablae/formidablae/discussions/31">over here</a> to engage, share, ask questions and collaborate together!
+	Head <a href="https://github.com/pavankmr501/pavankmr501/discussions/31">over here</a> to engage, share, ask questions and collaborate together!
 </h4>
 <hr>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=formidablae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=pavankmr501&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=formidablae&include_all_commits=true&hide_border=true&theme=dark"/>
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankmr501&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=C%2B%2B,C,TeX,C%23,Assembly,MATLAB,CMake,ShaderLab,HLSL,TSQL,DART,D,Makefile,Ruby,Swift,Standard%20ML,SCSS,CSS,Vue">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankmr501&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=C%2B%2B,C,TeX,C%23,Assembly,MATLAB,CMake,ShaderLab,HLSL,TSQL,DART,D,Makefile,Ruby,Swift,Standard%20ML,SCSS,CSS,Vue">
 </p>
 
 <!---
 <h4 align="center">Lines of Code per language in the last year only</h4>
 <p align="center">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/formidablae/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
+	<img width="450em" src="https://api.githubtrends.io/user/svg/pavankmr501/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
 </p>
 --->
 
