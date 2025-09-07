@@ -31,8 +31,8 @@
 <!---
 <h4 align="center">Views of all repositories (updated daily)</h4>
 <p align="center">
-	<a href="https://github.com/formidablae/my_github_profile_views_counter">
-		<img width="135em" src="https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
+	<a href="https://github.com/pavankmr501/my_github_profile_views_counter">
+		<img width="135em" src="https://github.com/pavankmr501/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
 	</a>
 </p>
 --->
@@ -41,8 +41,8 @@
 # Languages
 <h4 align="center">Most used languages (by number of commits)</h4>
 <p align="center">
-	<a href="https://profile.codersrank.io/user/formidablae#Tech%20Skills">
-		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=formidablae&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
+	<a href="https://profile.codersrank.io/user/pavankmr501#Tech%20Skills">
+		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pavankmr501&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
 	</a>
 </p>
 --->
@@ -62,27 +62,27 @@
 
 ## Full-stack
 <p align="center">
-	<a href="https://github.com/formidablae/Trendr_App">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Trendr_App&hide_border=true&theme=dark">
+	<a href="https://github.com/pavankmr501/Trendr_App">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=pavankmr501&repo=Trendr_App&hide_border=true&theme=dark">
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/formidablae/Masters_Thesis">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Masters_Thesis&hide_border=true&theme=dark">
+	<a href="https://github.com/pavankmr501/Masters_Thesis">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=pavankmr501&repo=Masters_Thesis&hide_border=true&theme=dark">
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/formidablae/Personal_Blog">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Personal_Blog&hide_border=true&theme=dark">
+	<a href="https://github.com/pavankmr501/Personal_Blog">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=pavankmr501&repo=Personal_Blog&hide_border=true&theme=dark">
 	</a>
 </p>
 
 ## Back-end
 <p align="center">
-	<a href="https://github.com/formidablae/a_cool_blog">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=a_cool_blog&hide_border=true&theme=dark">
+	<a href="https://github.com/pavankmr501/a_cool_blog">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=pavankmr501&repo=a_cool_blog&hide_border=true&theme=dark">
 	</a>
 </p>
 
@@ -94,14 +94,14 @@
 
 ## Front-end
 <p align="center">
-	<a href="https://github.com/formidablae/AngularBlog">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=AngularBlog&hide_border=true&theme=dark">
+	<a href="https://github.com/pavankmr501/AngularBlog">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=pavankmr501&repo=AngularBlog&hide_border=true&theme=dark">
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/formidablae/EV_Route_Planner">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=EV_Route_Planner&hide_border=true&theme=dark">
+	<a href="https://github.com/pavankmr501/EV_Route_Planner">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=pavankmr501&repo=EV_Route_Planner&hide_border=true&theme=dark">
 	</a>
 </p>
 
@@ -112,15 +112,15 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/formidablae/pig_game">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=pig_game&hide_border=true&theme=dark">
+	<a href="https://github.com/pavankmr501/pig_game">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=pavankmr501&repo=pig_game&hide_border=true&theme=dark">
 	</a>
 </p>
 
 ## Data Science
 <p align="center">
-	<a href="https://github.com/formidablae/Batched_Multi-armed_Bandits">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Batched_Multi-armed_Bandits&hide_border=true&theme=dark">
+	<a href="https://github.com/pavankmr501/Batched_Multi-armed_Bandits">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=pavankmr501&repo=Batched_Multi-armed_Bandits&hide_border=true&theme=dark">
 	</a>
 </p>
 --->
@@ -237,6 +237,6 @@
 <!---
 # Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/formidablae/formidablae/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/pavankmr501/pavankmr501/blob/main/github-metrics.svg" />
 </p>
 --->
